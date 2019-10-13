@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubmissionBeginnerDicodingAldi</string>
+    <string name="Allah">الله</string>
+    <string name="allah_latin">Allah</string>
+    <string name="tuhan">Tuhan Yang Di Sembah</string>
+    <string name="action_bar_title">Asmaul Husna</string>
+    <string name="tex_ex">Ini adalah contoh konten yang akan tampil di layar</string>
+    <string name="nama_dev">Nama : Aldi Irsan Majid</string>
+    <string name="email_dev">Email : aldiirsanmajid@gmail.com</string>
+</resources>
